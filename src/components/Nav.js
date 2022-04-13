@@ -22,7 +22,7 @@ const Nav = () => {
                             <li><NavLink to='/about' style={navLinkStyles}>About</NavLink></li>
                             <li><a>Pricing</a></li>
                             <li><a>Teacher Login</a></li>
-                            <li><a>Parenet Login</a></li>
+                            <li><a>Parent Login</a></li>
                         </ul>
                     </div>
                 </div>
