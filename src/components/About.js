@@ -3,6 +3,7 @@ import studyImg from '../images/study.jpg'
 import dummyProfile1 from '../images/dummyProfile1.png'
 import dummyProfile2 from '../images/dummyProfile2.png'
 import dummyProfile3 from '../images/dummyProfile3.png'
+import { FaFacebookSquare, FaTwitterSquare, FaInstagramSquare, FaExternalLinkSquareAlt } from 'react-icons/fa'
 
 const About = () => {
     return (
@@ -26,6 +27,10 @@ const About = () => {
                                 <b>Alexander Gomez</b>
                                 <br />
                                 <p>CTO & Founder</p>
+                                <a href="https://facebook.com" className='facebook socia-media-icons'><FaFacebookSquare /></a>
+                                <a href="https://twitter.com/" className='twitter socia-media-icons'><FaTwitterSquare /></a>
+                                <a href="https://www.instagram.com/" className='instagram socia-media-icons'><FaInstagramSquare /></a>
+                                <a href="https://www.linkedin.com/" className='linkedIn socia-media-icons'><FaExternalLinkSquareAlt /></a>
                                 <p className='detailedProfileContent'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero nesciunt totam. Natus eum debitis nam ducimus nesciunt dicta cumque asperiores sunt ipsum.
                                 </p>
                             </div>
@@ -36,6 +41,10 @@ const About = () => {
                                 <b>Alexander Gomez</b>
                                 <br />
                                 <p>CTO & Founder</p>
+                                <a href="https://facebook.com" className='facebook socia-media-icons'><FaFacebookSquare /></a>
+                                <a href="https://twitter.com/" className='twitter socia-media-icons'><FaTwitterSquare /></a>
+                                <a href="https://www.instagram.com/" className='instagram socia-media-icons'><FaInstagramSquare /></a>
+                                <a href="https://www.linkedin.com/" className='linkedIn socia-media-icons'><FaExternalLinkSquareAlt /></a>
                                 <p className='detailedProfileContent'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero nesciunt totam. Natus eum debitis nam ducimus nesciunt dicta cumque asperiores sunt ipsum.
                                 </p>
                             </div>
@@ -46,6 +55,10 @@ const About = () => {
                                 <b>Alexander Gomez</b>
                                 <br />
                                 <p>CTO & Founder</p>
+                                <a href="https://facebook.com" className='facebook socia-media-icons'><FaFacebookSquare /></a>
+                                <a href="https://twitter.com/" className='twitter socia-media-icons'><FaTwitterSquare /></a>
+                                <a href="https://www.instagram.com/" className='instagram socia-media-icons'><FaInstagramSquare /></a>
+                                <a href="https://www.linkedin.com/" className='linkedIn socia-media-icons'><FaExternalLinkSquareAlt /></a>
                                 <p className='detailedProfileContent'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero nesciunt totam. Natus eum debitis nam ducimus nesciunt dicta cumque asperiores sunt ipsum.
                                 </p>
                             </div>
